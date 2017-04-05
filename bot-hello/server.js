@@ -9,6 +9,7 @@ Does it work as expected?  Does it get stuck anywhere?  Any changes needed?
 
 Make sure to try uncommenting out the waterfall part below.  Good to test this
 with the Bot Framework emulator (https://docs.botframework.com/en-us/tools/bot-framework-emulator/).
+added some crap
 
 -----------------------------------------------------------------------------*/
 
